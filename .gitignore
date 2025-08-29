@@ -34,7 +34,6 @@
 
 node_modules
 .DS_Store
-.vscode
 ./vue-frontend/dist
 /build
 /portal
@@ -43,3 +42,4 @@ node_modules
 .next
 /.pio
 /logs
+config.bat
